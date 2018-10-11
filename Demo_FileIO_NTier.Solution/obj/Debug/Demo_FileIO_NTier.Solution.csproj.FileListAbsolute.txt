@@ -1,0 +1,9 @@
+C:\Users\moreaun\Desktop\Demo_FileIO-master\Demo_FileIO_NTier.Solution\bin\Debug\Data\Data.csv
+C:\Users\moreaun\Desktop\Demo_FileIO-master\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.exe.config
+C:\Users\moreaun\Desktop\Demo_FileIO-master\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.exe
+C:\Users\moreaun\Desktop\Demo_FileIO-master\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.pdb
+C:\Users\moreaun\Desktop\Demo_FileIO-master\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.Solution.csprojResolveAssemblyReference.cache
+C:\Users\moreaun\Desktop\Demo_FileIO-master\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.Solution.csproj.CoreCompileInputs.cache
+C:\Users\moreaun\Desktop\Demo_FileIO-master\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.exe
+C:\Users\moreaun\Desktop\Demo_FileIO-master\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.pdb
+C:\Users\moreaun\Desktop\Demo_FileIO-master\Demo_FileIO_NTier.Solution\bin\Debug\Data\Data.xml
